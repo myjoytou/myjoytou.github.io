@@ -1,4 +1,19 @@
-.topnav {
+body {
+  margin-top: 60px;
+}
+
+.header{
+  height: 500px;
+  background: url("../images/happiness.png") no-repeat;
+  background-size: cover;
+}
+.header-content {
+  padding-top: 150px;
+}
+.heading-tag {
+  font-size: 5em;
+}
+/*.topnav {
   font-size: 20px;
   border-bottom: 1px outset rgba(192, 192, 192, 0.5);
   background: rgba(192, 192, 192, 0.5);
@@ -175,3 +190,4 @@ footer {
   padding: 50px 0;
   background: rgba(192, 192, 192, 0.9);
 }
+*/
